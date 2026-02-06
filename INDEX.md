@@ -192,6 +192,21 @@ npm start
    NEXT_PUBLIC_USE_MOCK_CHAT=false
    ```
 4. Restart dev server
+ 
+### Questions à poser au chatbot (exemples)
+
+Voici des exemples de questions que les utilisateurs peuvent poser au chatbot. Ajoutez-les à vos guides utilisateur ou affichez-les dans l'interface pour aider les visiteurs :
+
+- "Parlez-moi de Paris 1889."
+- "Que comprend le voyage à Florence 1504 ?"
+- "Quelles activités sont incluses dans l'Ère Crétacée ?"
+- "Quels sont les prix pour chaque destination ?"
+- "Comment puis-je réserver mon voyage ?"
+- "Y a-t-il des risques ou des restrictions ?"
+- "Puis-je voyager avec ma famille ou des enfants ?"
+- "Propose-moi une destination selon mes préférences (art, aventure, détente)."
+- "Quels équipements et services sont inclus ?"
+- "Aide-moi à choisir une option de voyage adaptée à mon budget."
 
 ---
 
