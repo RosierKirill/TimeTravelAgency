@@ -65,27 +65,7 @@ export function Hero() {
         </motion.div>
 
         {/* Floating Elements */}
-        <motion.div
-          className="absolute top-20 left-10 text-4xl"
-          animate={{ y: [0, 20, 0], rotate: [0, 5, 0] }}
-          transition={{ duration: 4, repeat: Infinity }}
-        >
-          🏛️
-        </motion.div>
-        <motion.div
-          className="absolute bottom-32 right-10 text-4xl"
-          animate={{ y: [0, -20, 0], rotate: [0, -5, 0] }}
-          transition={{ duration: 4, repeat: Infinity, delay: 0.2 }}
-        >
-          🦕
-        </motion.div>
-        <motion.div
-          className="absolute top-1/3 right-20 text-4xl"
-          animate={{ y: [0, 15, 0], rotate: [0, 3, 0] }}
-          transition={{ duration: 4, repeat: Infinity, delay: 0.4 }}
-        >
-          🎨
-        </motion.div>
+        
       </div>
     </section>
   )
